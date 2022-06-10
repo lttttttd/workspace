@@ -1,0 +1,1 @@
+cmd_/home/ltd/workspace/final/cdev/demo.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ltd/workspace/final/cdev/demo.ko /home/ltd/workspace/final/cdev/demo.o /home/ltd/workspace/final/cdev/demo.mod.o;  true
